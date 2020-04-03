@@ -4,7 +4,7 @@ import hashlib
 
 
 def index(request):
-    message = 'Don\'t be shy free to try'
+    message = 'Don\'t be shy feel free to try'
     context = {
         'message': message
     }
